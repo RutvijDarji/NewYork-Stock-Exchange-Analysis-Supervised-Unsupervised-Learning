@@ -40,7 +40,17 @@ I executed a full join operation to merge two tables, Fundamentals and Security,
 * Clustering - KMeans Clustering
 # Descriptive Analytics
 * PowerBi Dashboards
-* 
+
+![Dashboard 1](https://github.com/RutvijDarji/NewYork-Stock-Exchange-Analysis-Supervised-Unsupervised-Learning/assets/80823722/8fe96f2a-2ee1-408a-a0c7-fab2b0b3e9fc)
+
+![Dashboard 2](https://github.com/RutvijDarji/NewYork-Stock-Exchange-Analysis-Supervised-Unsupervised-Learning/assets/80823722/6eb1bc39-68c2-43f8-854e-9a9049546da8)
+
+![Dashboard 3](https://github.com/RutvijDarji/NewYork-Stock-Exchange-Analysis-Supervised-Unsupervised-Learning/assets/80823722/c71d2eca-f961-4e4b-a9d6-28aca0219d4c)
+
+![Dashboard 4](https://github.com/RutvijDarji/NewYork-Stock-Exchange-Analysis-Supervised-Unsupervised-Learning/assets/80823722/b59bee36-ae8c-4641-9913-f33286a75a1b)
+
+![Dashboard 5](https://github.com/RutvijDarji/NewYork-Stock-Exchange-Analysis-Supervised-Unsupervised-Learning/assets/80823722/85de773f-c7c5-4735-8ab4-53dd89e570b2)
+
 
 
 
